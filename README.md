@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/amcneill97/Post-Install-Configuration)
     
 - <b>Microsoft Azure</b>
-  - [Active Directory Infrastructure Setup in Microsoft Azure](https://github.com/amcneill97/Active)
+  - [Active Directory Infrastructure Setup in Microsoft Azure](https://github.com/amcneill97/)
  
 
 <h2>🤳Connect with me:</h2>
