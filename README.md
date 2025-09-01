@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/amcneill97/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/amcneill97/Post-Install-Configuration)
+  - [osTicket: Configuration](https://github.com/amcneill97/Post-Install-Configuration)
     
 - <b>Microsoft Azure</b>
   - [Active Directory Infrastructure Setup in Microsoft Azure](https://github.com/amcneill97/Active-Directory-Infrastructure-Setup-in-Microsoft-Azure)
